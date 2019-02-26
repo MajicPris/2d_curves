@@ -1,0 +1,4 @@
+﻿  2d_curves.cpp
+c:\users\kshar\source\repos\2d_curves\2d_curves\2d_curves.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kshar\source\repos\2d_curves\2d_curves\2d_curves.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+  2d_curves.vcxproj -> C:\Users\kshar\source\repos\2d_curves\Debug\2d_curves.exe
